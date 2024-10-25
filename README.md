@@ -1,4 +1,4 @@
-# guardian_gaze
+# Guardian_Gaze
 
 A new Flutter project.
 
